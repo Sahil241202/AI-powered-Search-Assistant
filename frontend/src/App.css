@@ -75,7 +75,7 @@
 }
 
 
-/* Search Area Styles */
+Search Area Styles
 .search-container {
   background-color: var(--card-bg);
   border-radius: 1.5rem;
@@ -371,7 +371,6 @@ body {
   transition: color 0.3s ease;
 }
 
-/* Search Section */
 .search-container {
   background-color: var(--card-bg);
   border-radius: 1.5rem;
@@ -382,6 +381,8 @@ body {
   border: 1px solid var(--border-color);
 }
 
+
+/* Search Section
 .search-wrapper {
   position: relative;
 }
@@ -421,7 +422,7 @@ body {
 .search-button:hover {
   background-color: var(--primary-hover);
   transform: translateY(-50%) scale(1.05);
-}
+} */
 
 /* Status Section */
 .status-container {
